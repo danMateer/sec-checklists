@@ -144,4 +144,4 @@ pentest_check_10:
     - Ensure the target API properly validates and sanitizes data gathered from other APIs prior to processing it or passing it to downstream components.
     - Ensure the target API does not blindly follow redirections.
     - Ensure the target API limits the number of resources available to process third-party services responses.
-    - Ensure the target API has implement timeouts for interactions with third-party services[api_checklist.yaml](/uploads/9720157ad827c7ebd2257d3f35c34178/api_checklist.yaml)
+    - Ensure the target API has implement timeouts for interactions with third-party services.
